@@ -6,6 +6,15 @@
 - ltbtools - скрипт на питоне для выемки/вставки текста из лангпака localization.ltb
 - text - переведённый на русский язык текст для 3DS/PSV. Внимание! Количество строк для разных платформ отличается.
 
+Что где лежит внутри игры:
+
+global.pak\loading.anb - банк графики экрана загрузки
+global.pak\localization.ltb - лангпак
+global.pak\fromwhereyouare_at.otf - шрифт
+global.pak\fromwhereyouare_at.ttf - шрифт
+title_screen.pak\titlescreen.anb - банк графики титульного экрана (лого и т.п.)
+
+
 Патч-русификатор самой последней версии для 3DS/PSV можно найти здесь:
 https://vk.com/ttlegacy
 или тут:
